@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThpcmpncGZocDgwYXQ5Y2l3cm9pbTVreGFodGU0aWoyNngyeTAwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.webp)
 <!--
 **izabelisiebre/izabelisiebre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
